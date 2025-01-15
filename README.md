@@ -46,8 +46,7 @@ A powerful and user-friendly **Command-Line Personal Finance Manager** built wit
 ### Prerequisites
 
 - **Python 3.x** installed on your system. [Download Python](https://www.python.org/downloads/)
-- **Git** (optional, for cloning the repository). [Download Git](https://git-scm.com/downloads)
-
+  
 ### Steps
 
 1. **Clone the Repository**
