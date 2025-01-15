@@ -239,7 +239,7 @@ python -m unittest discover -s tests
 
 ### Example Test Cases
 
-The `tests/` directory contains test modules for different components of the application. Below is an example of a test case for transaction functionalities.
+The `tests/` directory contains test modules for different components of the application.
 
 
 ## Project Structure
