@@ -13,6 +13,7 @@ A powerful and user-friendly **Command-Line Personal Finance Manager** built wit
   - [Set a Budget](#set-a-budget)
   - [View Budgets](#view-budgets)
   - [Generate Summary Report](#generate-summary-report)
+  - [Generate ASCII Chart](#generate-ascii-chart)
 - [Testing](#testing)
 - [Project Structure](#project-structure)
 - [License](#license)
@@ -224,6 +225,31 @@ Generate a summary for the year 2025:
 ```bash
 python main.py summary --start 2025-01-01 --end 2025-12-31
 ```
+
+#### Generate ASCII Chart
+
+Generate an ASCII bar chart of your spending habits.
+
+**Syntax:**
+
+```bash
+python main.py chart [--start YYYY-MM-DD] [--end YYYY-MM-DD]
+```
+
+**Options:**
+
+- `--start`: (Optional) Start date in `YYYY-MM-DD` format
+- `--end`: (Optional) End date in `YYYY-MM-DD` format
+
+**Example:**
+
+Generate an ASCII chart for the year 2025:
+
+```bash
+python main.py chart --start 2025-01-01 --end 2025-12-31
+```
+
+---
 
 ## Testing
 
