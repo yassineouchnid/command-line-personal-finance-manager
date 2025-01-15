@@ -52,8 +52,8 @@ A powerful and user-friendly **Command-Line Personal Finance Manager** built wit
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/personal_finance_manager.git
-   cd personal_finance_manager
+   git clone https://github.com/yassineouchnid/command-line-personal-finance-manager.git
+   cd command-line-personal-finance-manager
    ```
 
    *Alternatively, you can download the repository as a ZIP file and extract it.*
