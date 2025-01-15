@@ -247,7 +247,7 @@ The `tests/` directory contains test modules for different components of the app
 Organizing your project well ensures maintainability and scalability.
 
 ```
-personal_finance_manager/
+command-line-personal-finance-manager/
 │
 ├── finance_manager/
 │   ├── __init__.py
